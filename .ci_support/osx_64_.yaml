@@ -16,5 +16,7 @@ cxx_compiler_version:
 - '21'
 macos_machine:
 - x86_64-apple-darwin13.4.0
+moab:
+- '5.6'
 target_platform:
 - osx-64
